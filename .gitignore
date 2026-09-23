@@ -1,0 +1,13 @@
+.DS_Store
+.bash_logout
+.bash_profile
+.bashrc
+simv
+csrc/
+*.daidir/
+*.key
+*.vpd
+*.vcd
+vcs
+dump_vpd.do
+synopsys_sim.setup
